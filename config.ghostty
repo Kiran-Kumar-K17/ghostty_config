@@ -1,0 +1,16 @@
+theme = Gruvbox Material Dark
+
+# Font Setup (Uses Fedora's system font + Ghostty's built-in icons)
+font-family = JetBrains Mono
+font-size = 14
+
+# Window Styles
+background-opacity = 0.95
+window-padding-x = 10
+window-padding-y = 10
+
+# Color Overrides (Matches Gruvbox Theme palette)
+background = #282828
+foreground = #ebdbb2
+cursor-color = #ebdbb2
+
